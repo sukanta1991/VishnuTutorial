@@ -1,0 +1,14 @@
+.keep-component-note-taker-panel{
+    width: 50vw;
+    background-color:blueviolet;
+  }
+  .keep-component-note-taker-wrapper{
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+  }
+  .keep-component-button{
+    display : flex;
+    justify-content: flex-end;
+  }
+  

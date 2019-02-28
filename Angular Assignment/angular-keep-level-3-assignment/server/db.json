@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular5 blog",
+      "text": "Shall do at 9 pm",
+      "state": "not-started"
+    },
+    {
+      "id": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions",
+      "state": "started"
+    },
+    {
+      "title": "Capitalism",
+      "text": "Mark Twain",
+      "id": 3,
+      "state": "completed"
+    },
+    {
+      "title": "Hello",
+      "text": "New1",
+      "state": "completed",
+      "id": 4
+    },
+    {
+      "title": "heee",
+      "text": "heee",
+      "state": "not-started",
+      "id": 5
+    },
+    {
+      "title": "seee",
+      "text": "seeee",
+      "state": "not-started",
+      "id": 6
+    },
+    {
+      "title": "reee",
+      "text": "feeee",
+      "state": "not-started",
+      "id": 7
+    },
+    {
+      "title": "blist",
+      "text": "blistt",
+      "state": "not-started",
+      "id": 8
+    },
+    {
+      "title": "Added today",
+      "text": "Yes its added",
+      "state": "not-started",
+      "id": 9
+    }
+  ]
+}
